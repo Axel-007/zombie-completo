@@ -11,7 +11,8 @@
         "Timers": "github:microsoft/arcade-timers#v1.1.0",
         "sprite-scaling": "*",
         "settings-blocks": "github:microsoft/pxt-settings-blocks#v1.0.0",
-        "arcade-text": "github:microsoft/arcade-text#v1.3.0"
+        "arcade-text": "github:microsoft/arcade-text#v1.3.0",
+        "xtron-arcade-compat": "github:Axel-007/pxt-xtron-arcade#582dc2a4c8fac004cf325211e6aaafb82156ed38"
     },
     "files": [
         "main.blocks",
